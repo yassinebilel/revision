@@ -116,219 +116,7 @@ function iterateAndLog(number){
        return iterateAndLog(number)
 }
     
-undefined
-iterateAndLog(5)
-VM535:2 Uncaught RangeError: Maximum call stack size exceeded
-    at iterateAndLog (<anonymous>:2:5)
-    at iterateAndLog (<anonymous>:5:15)
-    at iterateAndLog (<anonymous>:5:15)
-    at iterateAndLog (<anonymous>:5:15)
-    at iterateAndLog (<anonymous>:5:15)
-    at iterateAndLog (<anonymous>:5:15)
-    at iterateAndLog (<anonymous>:5:15)
-    at iterateAndLog (<anonymous>:5:15)
-    at iterateAndLog (<anonymous>:5:15)
-    at iterateAndLog (<anonymous>:5:15)
-iterateAndLog @ VM535:2
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
-iterateAndLog @ VM535:5
+
 function iterateAndLog(number){
     if(number%2===0){
         return number+' is even'
@@ -432,7 +220,7 @@ while(i<n){
 VM1085:1 Uncaught SyntaxError: Identifier 'i' has already been declared
 function weirdDivisionWithFor(n)
 
-let i=0
+var i=0     
 while(i<n){
     i++
 }
@@ -507,87 +295,8 @@ for (let i = n; i <=1; i++) {
 }
 
 }
-undefined
-weirdDivisionWithFor(1)
-1
-weirdDivisionWithFor()
-undefined
-function weirdDivisionWithFor(n) {
-if(){
-    return
-}
-return
 
 }
-VM1291:2 Uncaught SyntaxError: Unexpected token ')'
-function  laugh(n){
-    var result=""
-    for (let i = 0; i <n; i++) {
-        result=result+i
-    }
-    return result
-}
-undefined
-laugh()
-''
-function  laugh(n){
-    var result="ha"
-    for (let i = 0; i <n; i++) {
-        result=result+i
-    }
-    return result
-}
-undefined
-laugh()
-'ha'
-function  laugh(n){
-    var result="ha"
-    for (let i = 0; i <n; i++) {
-        result=result*i
-    }
-    return result
-}
-undefined
-laugh()
-'ha'
-function  laugh(n){
-    var result="ha"
-    for (let i = 0; i <n; i++) {
-        result=result*array[i]
-    }
-    return result
-}
-undefined
-function  laugh(n){
-    var oo=array[]
-    var result="ha"
-    for (let i = 0; i <n; i++) {
-        result=result*array[i]
-    }
-    return result
-}
-VM1579:2 Uncaught SyntaxError: Unexpected token ']'
-function  laugh(n){
-    var oo=[]
-    var result="ha"
-    for (let i = 0; i <n; i++) {
-        result=result*array[i]
-    }
-    return result
-}
-undefined
-laugh()
-'ha'
-function  laugh(n){
-    var array="ha"
-    for (let i = 0; i <n; i++) {
-        array=array*array[i]
-    }
-    return array
-}
-undefined
-laugh()
-'ha'
 function reverseIterateAndLogRecursively(n){
     if(n===0){
         return 
@@ -606,25 +315,32 @@ reverseIterateAndLogRecursively(2)
 VM1860:6 2is even
 VM1860:10 1is odd
 undefined
-reverseIterateAndLogRecursively(20)
-VM1860:6 20is even
-VM1860:10 19is odd
-VM1860:6 18is even
-VM1860:10 17is odd
-VM1860:6 16is even
-VM1860:10 15is odd
-VM1860:6 14is even
-VM1860:10 13is odd
-VM1860:6 12is even
-VM1860:10 11is odd
-VM1860:6 10is even
-VM1860:10 9is odd
-VM1860:6 8is even
-VM1860:10 7is odd
-VM1860:6 6is even
-VM1860:10 5is odd
-VM1860:6 4is even
-VM1860:10 3is odd
-VM1860:6 2is even
-VM1860:10 1is odd
-undefined
+
+
+function  laugh(n){
+    var string=""
+    for (let i = 0; i <n; i++) {
+        string=string+"ha"
+    }
+    return string
+}
+
+
+function  laugh(n){
+    let string=""
+    var i=0
+   while ( i <n) {
+       i++;
+        string=string+"ha"
+    }
+    return string
+}
+
+
+function  laugh(n){
+    if (n===0) {
+        return ''
+    }
+
+    return laugh(n-1) +"ha"
+}
